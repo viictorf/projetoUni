@@ -3,7 +3,7 @@
 
 [Perfil Dio](https://github.com/viictorf/projetoUni/blob/main/victordlf_ads.png) 
 
-[Fontes de pesquisa]()
+[Fontes de pesquisa](https://github.com/viictorf/projetoUni/blob/main/fontes.md)
 
 [Deixe uma sugestão](https://github.com/viictorf/projetoUni/issues)
 
