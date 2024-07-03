@@ -44,7 +44,7 @@
 * Habilidade de trabalhar em equipe e seguir práticas de desenvolvimento ágil.
 * Capacidade de aprender novas tecnologias rapidamente.
 
-## Administrador de Banco de Dados (DBA)
+## Administrador de Dados (DBA)
 ### O Administrador de Dados (AD) tem o objetivo de gerenciar o Modelo de Dados Corporativo, contribuindo para assegurar a qualidade das informações, a integração dos sistemas, a retenção e a disseminação do conhecimento dos negócios.
 ###Cabe a ele, guiado por certos princípios e através de atividades de planejamento, organização e controle dos dados corporativos, gerenciar os dados como recursos de uso comum da organização, promovendo-lhes os valores de autenticidade, autoridade, precisão, acessibilidade, seguridade e inteligibilidade.
 
